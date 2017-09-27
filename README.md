@@ -30,4 +30,4 @@ We hope you find them useful. We hope you contribute back, too!
 * LaTeX2e taboos. [Up-to-date German version (2.4)](http://dante.ctan.org/tex-archive/info/l2tabu/german/l2tabu.pdf), 
   [an older English translation (1.8.5.7)](http://mirror.easyname.at/ctan/info/l2tabu/english/l2tabuen.pdf)
 * A similar idea: @tgkolda's [`siam-latex`](https://github.com/tgkolda/siam-latex)
-
+* A (self-identified) "Improved Lecture Notes in Computer Science (LNCS) template", https://github.com/latextemplates/LNCS
